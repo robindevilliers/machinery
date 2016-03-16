@@ -7,8 +7,10 @@ Machinery is a data processing library.  The idea is to be able to setup operati
 You can see the tests for examples:
 
 [Basic Examples](./src/test/java/uk/co/malbec/machinery/BasicExamples.java)
+
 [Partitioning Examples](./src/test/java/uk/co/malbec/machinery/PartitioningExamples.java)
-[Exhaustive Examples](./src/test/java/uk/co/malbec/machinery/ExhaustiveExamples.java)
+
+[Exhaustive Examples](./src/test/java/uk/co/malbec/machinery/ExhaustiveExample.java)
 
 
 At this point you will be wondering why not just use java 8 Streams?  I used them when I first developed this code, and I was very unhappy with how clear the code was.  
