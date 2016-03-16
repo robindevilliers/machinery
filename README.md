@@ -1,2 +1,5 @@
-# machinery
-A data processing library
+# Machinery
+
+
+
+![statistics screenshot][statistics.png]
