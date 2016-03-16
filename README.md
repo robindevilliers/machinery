@@ -38,5 +38,3 @@ Each CategoryGroup object splits the data according to some rule.  The rule you 
 
 
 
-
-
